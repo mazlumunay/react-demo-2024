@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "90b5",
-      "title": "Test 1",
-      "type": "Full-Time",
-      "location": "Izmir, TR",
-      "description": "This is a test ",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Mahz Tech",
-        "description": "Whatever",
-        "contactEmail": "mahz@gmail.com",
-        "contactPhone": "1111111111"
-      }
     }
   ]
 }
